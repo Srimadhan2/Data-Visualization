@@ -1,0 +1,11 @@
+TASK-2 SUMMARY OF SALES DATA
+The West region generates the highest sales, especially from California.
+Office Supplies is the most frequently bought category, but Technology brings in higher revenue per order.
+Standard Class is the most used shipping mode, but Same Day has quicker delivery.
+Corporate segment customers tend to order higher-value items.
+1.Count of regions by sales
+2.Sum of sales by year
+3.Sum of sales by category
+4.Sum of sales by city
+5.Count of segment by category
+6.Count of ship mode by day
